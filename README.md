@@ -16,7 +16,7 @@ const theToan = {
   skill: [NodeJS, React, Net, Spring boot],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge:
-    "I am doing the #100DaysOfCode challenge focused on react, typescript " + "and English",
+    "I am doing the #100DaysOfCode challenge focused on react, typescript " + "and English"
 };
 ```
 
