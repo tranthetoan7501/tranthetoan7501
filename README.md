@@ -11,7 +11,6 @@
 
 ```javascript
 const theToan = {
-  pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, C#, Java],
   skill: [NodeJS, React, Net, Spring boot],
   architecture: ["microservices", "event-driven", "design system pattern"],
