@@ -12,7 +12,7 @@
 ```javascript
 const theToan = {
   code: [Javascript, Typescript, HTML, CSS, C#, Java],
-  skill: [NodeJS, React, Net, Spring boot],
+  skill: [NodeJS, React, Net],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge:
     "I am doing the #100Days challenge focused on JS, TS " + "and English"
